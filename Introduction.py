@@ -1,5 +1,4 @@
 print "Hello I am Pranay"
-
-print "Hey I am Dingu"
-
+print "Yo I am Nitesh"
+print "Hey I am Dingu Sagar"
 print "THis is Jeeva Keshav"
